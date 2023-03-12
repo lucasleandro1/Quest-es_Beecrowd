@@ -7,4 +7,4 @@ for ($x = 0; $x <= count($v1);$x++){
     $maior = $v1[$x];
   }
 }
-echo "$maior eh o maior\n";
+echo "$maior eh o maior";
