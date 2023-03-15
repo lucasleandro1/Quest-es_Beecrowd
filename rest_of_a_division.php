@@ -1,7 +1,6 @@
 <?php
 $v1 = readline();
 $v2 = readline();
-$x = 0;
 if ($v1 > $v2){
     $menor = $v2;
     $maior = $v1;
